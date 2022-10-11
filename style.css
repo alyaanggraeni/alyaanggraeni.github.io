@@ -1,0 +1,12 @@
+body {
+  font-family: "Comic Sans MS";
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #917ddb;
+}
+
+#projects {
+  padding-top: 6rem;
+}
